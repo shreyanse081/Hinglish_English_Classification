@@ -12,7 +12,6 @@ To Run the code please visit my [Azure Notebooks](https://notebooks.azure.com/sh
 This project is the part of a Bigger project of [Roman to devnagri Conversion]().
 
 ## Code-Mixed
-<hr>
 Code-mixing is the mixing of two or more languages or language varieties in speech. Some people use the terms "code-mixing" and "code-switching" interchangeably, especially in studies of syntax, morphology, and other formal aspects of language. 
 For Example:
 "ye repository bhasha phechanne ke liye banai gai hai."
@@ -21,17 +20,14 @@ Which actually translates to:
 <br>
 
 ## Pretrained Model
-<hr>
 Pretrained Weight file(.h5) and Model File(.json) can be found in the folder. To use it, just download the .h5 file and .json file and Give the appropriate path in the program.
 <br>
 
 ## Dataset
-<hr>
 There are two files, one is '.csv' (Created) and another is '.tsv' (Orignal). The '.csv' file is created upon '.tsv' file by us. 
 <br>
 
 ## Libraries
-<hr>
 <ul>
   <li>Python v3.6</li>
   <li>Keras v2.1.5</li>
