@@ -5,3 +5,6 @@ Hinglish_English_Classification_module is present anyone can load it and use it 
 
 Accuracy of the model is about 90%
 
+To Run the code please visit my [Azure Notebooks](https://notebooks.azure.com/shreyanse081/projects/langclass).
+
+This project is the part of a Bigger project of [Roman to devnagri Conversion]().
